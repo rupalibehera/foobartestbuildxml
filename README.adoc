@@ -1,5 +1,5 @@
 = Health Check - Spring Boot Booster
-
+This is changed
 IMPORTANT: While you can run and interact with this booster on localhost, you cannot take advantage of using the health check functionality with this booster without using OpenShift. For more details on using this booster with a single-node OpenShift cluster, CI/CD deployments, as well as the rest of the runtime, see the link:http://appdev.openshift.io/docs/spring-boot-runtime.html[Spring Boot Runtime Guide].
 
 IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
